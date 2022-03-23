@@ -1,0 +1,1 @@
+{"Cost":"4","Count":"3","Date":"18.03.2022 00:00:00","MyProducer":{"<Adress>k__BackingField":"Some Street 13","<Country>k__BackingField":"Тайвань","<Organisation>k__BackingField":"Something","<PhoneNumber>k__BackingField":"(123) 456-7894"},"Name":"ASUS","Num":"A375754","Size":"45","Type":"a15","Weight":"5"}

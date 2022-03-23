@@ -5,8 +5,6 @@ C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\bi
 C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\bin\Debug\net5.0-windows\lab2.dll
 C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\bin\Debug\net5.0-windows\ref\lab2.dll
 C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\bin\Debug\net5.0-windows\lab2.pdb
-C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.csproj.AssemblyReference.cache
-C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.Product.resources
 C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.csproj.GenerateResource.cache
 C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.AssemblyInfoInputs.cache
@@ -17,3 +15,6 @@ C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\ob
 C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.pdb
 C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.genruntimeconfig.cache
 C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.Producer.resources
+C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.ProductForm.resources
+C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.Finder.resources
+C:\Users\Михаил Лагуновский\Desktop\ООП_2сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.csproj.AssemblyReference.cache
